@@ -1,5 +1,7 @@
 # Folder PWD
 
+[![Rust](https://github.com/Ttanesque/folder_pwd/actions/workflows/rust.yml/badge.svg)](https://github.com/Ttanesque/folder_pwd/actions/workflows/rust.yml)
+
 > Folder PWD va parcourir et afficher tout les répertoires présent dans un répertoires donnés (en paramètre ou courant)
 
 ## Pourquoi ?
