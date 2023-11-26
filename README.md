@@ -6,7 +6,7 @@
 
 ## Pourquoi ?
 
-Ripgrep n'a pas d'options pour afficher que les répertoires et était un bon projet rapide. Une alternative maintenue et complète est [fd]([url](https://github.com/sharkdp/fd))
+Ripgrep n'a pas d'options pour afficher que les répertoires et était un bon projet rapide. Une alternative maintenue et complète est [fd](https://github.com/sharkdp/fd)
 
 ## Dépendences
 
