@@ -1,12 +1,12 @@
 # Folder PWD
 
-[![Rust](https://github.com/Ttanesque/folder_pwd/actions/workflows/rust.yml/badge.svg)](https://github.com/Ttanesque/folder_pwd/actions/workflows/rust.yml)
+[![CI](https://github.com/Ttanesque/folder_pwd/actions/workflows/rust.yml/badge.svg)](https://github.com/Ttanesque/folder_pwd/actions/workflows/rust.yml)
 
 > Folder PWD va parcourir et afficher tout les répertoires présent dans un répertoires donnés (en paramètre ou courant)
 
 ## Pourquoi ?
 
-Ripgrep n'a pas d'options pour afficher que les répertoires.
+Ripgrep n'a pas d'options pour afficher que les répertoires et était un bon projet rapide. Une alternative maintenue et complète est [fd]([url](https://github.com/sharkdp/fd))
 
 ## Dépendences
 
